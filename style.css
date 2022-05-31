@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 30px;
+}
+#counter {
+    padding: 30px;
+}
